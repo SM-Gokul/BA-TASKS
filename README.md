@@ -59,65 +59,49 @@ https://public.tableau.com/app/profile/gokul.sm/viz/CustomerShoppingDashboard_17
 - Customer purchasing patterns help identify profitable segments.
 
 ---
-
-## Business Recommendations
-# ✈️ Task 5 - Airline Passenger Satisfaction & Flight Performance Dashboard
+# 🛒 Week 5 - Customer Segment Analysis Dashboard
 
 ## Dataset
-
-Airline Passenger Satisfaction Dataset (Kaggle)
+Supermarket Sales Dataset (Kaggle)
 
 ## Tool Used
-
 - Tableau Public
 
 ## Dashboard Link
-
 https://public.tableau.com/app/profile/gokul.sm/viz/SupermarketSalesAnalysisDashboard_17864809226140/SupermarketSalesAnalysisDashboard
 
 ---
 
 ## Business Questions & Answers
 
-1. How many passengers are included in the dataset?
+1. Which customer segment generates the highest sale?
+- Member customers generate the highest sales.
 
-- The dataset contains 103,904 passengers.
+2. Which customer group purchases most frequently?
+- Member customers purchase more frequently.
 
-2. Which passenger class has the highest number of passengers?
+3. Which payment method is most preferred?
+- Cash 
 
-- Business Class has the highest number of passengers.
+4. Which product category is most popular?
+- Food and Beverages 
 
-3. Which customer type is more common?
+5. Which city contributes the highest revenue?
+- Naypyitaw 
 
-- Loyal customers are more common than disloyal customers.
-
-4. Which travel type has the highest number of passengers?
-
-- Business Travel has the highest number of passengers.
-
-5. Is there a relationship between departure delay and arrival delay?
-
-- Yes. Departure delay and arrival delay show a strong positive relationship.
-
-6. How does passenger satisfaction differ based on delays?
-
-- The dashboard shows differences in average departure and arrival delays between satisfied and neutral/dissatisfied passengers.
+6. Which customer segment should the business focus on?
+- Member customers.
 
 ---
 
 ## Business Insights
 
-- The dataset contains 103,904 passengers.
-- Business Class has the highest number of passengers.
-- Loyal customers form the larger customer group.
-- Business Travel has more passengers than Personal Travel.
-- Higher departure delays generally lead to higher arrival delays.
-- Neutral or dissatisfied passengers are higher in number than satisfied passengers.
+- Member customers generate higher sales.
+- Cash is the most preferred payment method.
+- Food and Beverages is the top-selling product line.
+- Naypyitaw contributes the highest revenue.
+- Customer purchasing patterns help identify profitable segments.
 
 ---
 
-## Business Recommendations
 
-- Focus on improving services for neutral and dissatisfied passengers.
-- Reduce departure delays to improve overall passenger experience.
-- Strengthen loyalty programs to retain loyal customers.
