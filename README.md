@@ -103,5 +103,42 @@ https://public.tableau.com/app/profile/gokul.sm/viz/SupermarketSalesAnalysisDash
 - Customer purchasing patterns help identify profitable segments.
 
 ---
+##📊 Week 6 - Business Trend Analysis using Tableau
+#Dataset
+Supermarket Sales Dataset (Kaggle)
 
+#Tool Used
+Tableau Public
+Objective
+Analyze business performance over time using an Area Chart and identify important sales trends that support business decision-making.
+
+#Business Trend Analysis
+The Supermarket Sales dataset was imported into Tableau Public. The Date field was used as the time-based field and Sales as the numerical business measure.
+
+An Area Chart was created to analyze the monthly sales trend. Three additional visualizations were also created to understand sales performance across different business dimensions.
+
+#Visualizations Created
+Monthly Sales Trend – Area Chart
+
+#Shows how sales change from month to month.
+Sales by Product Line – Bar Chart
+
+#Compares sales across different product categories.
+Sales by Branch – Chart
+
+#Compares the sales performance of different branches.
+Sales by Customer Type – Chart
+
+Shows the sales contribution of different customer types.
+#Business Insights
+Sales are highest in January.
+Sales decrease in February and increase again in March.
+The Area Chart shows a clear monthly variation in sales performance.
+Different product lines and branches contribute differently to overall sales.
+Customer type analysis helps identify important customer segments.
+#Conclusion
+The Area Chart clearly shows the monthly sales trend and helps identify changes in business performance over time. The additional visualizations provide a broader understanding of product, branch, and customer-level sales performance.
+
+#Dashboard Link
+https://public.tableau.com/app/profile/gokul.sm/viz/task6_17878965756790/Dashboard1#1
 
