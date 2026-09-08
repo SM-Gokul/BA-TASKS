@@ -194,6 +194,6 @@ To analyze the contribution of different business categories using a Tree Map an
 The Tableau dashboard provides a clear visual analysis of business categories using a Tree Map and supporting charts. It helps identify important sales patterns and supports better business decision-making.
 
 ## Tableau Public Dashboard
-**Dashboard Link:** https://public.tableau.com/app/profile/eyazharasi.kumar/viz/salesanalysistask8/Dashboard1#1
+**Dashboard Link:** https://public.tableau.com/app/profile/gokul.sm/viz/supermarketanalaysistask8/Dashboard1#1
 
 
