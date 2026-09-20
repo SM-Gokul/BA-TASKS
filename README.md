@@ -195,5 +195,44 @@ The Tableau dashboard provides a clear visual analysis of business categories us
 
 ## Tableau Public Dashboard
 **Dashboard Link:** https://public.tableau.com/app/profile/gokul.sm/viz/supermarketanalaysistask8/Dashboard1#1
+# Week 9 – Business Trend Analysis using Tableau Public
+
+## Objective
+Analyze changes in business sales over time using Tableau Public and identify important trends, peaks, drops, and business insights.
+
+## Dataset
+Supermarket Sales Dataset
+
+## Tool Used
+- Tableau Public
+
+## Visualizations Created
+1. Monthly Sales Trend – Line Chart
+2. Sales by Product Category – Treemap
+3. Payment-wise Sales – Pie Chart
+4. Sales Distribution by Product Line – Bubble Chart
+
+## Interactive Features
+- Product Line filter
+- Interactive dashboard
+- Tooltips for detailed sales information
+
+## Key Analysis
+- Identified highest and lowest sales periods.
+- Observed monthly sales fluctuations.
+- Compared sales performance across product categories.
+- Analyzed sales distribution across payment methods.
+- Compared different product lines based on sales.
+
+## Business Recommendations
+1. Focus inventory and promotional activities on categories and product lines with stronger sales performance.
+2. Monitor low-sales periods and introduce targeted offers to improve sales during weaker periods.
+
+## Dashboard
+Created using Tableau Public by combining multiple visualizations into a single interactive dashboard.
+
+## Tableau Public Dashboard
+https://public.tableau.com/app/profile/gokul.sm/viz/SupermarketSalesTrendBusinessAnalysisDashboard/Dashboard1#1
+
 
 
