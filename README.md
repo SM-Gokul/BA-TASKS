@@ -234,5 +234,78 @@ Created using Tableau Public by combining multiple visualizations into a single 
 ## Tableau Public Dashboard
 https://public.tableau.com/app/profile/gokul.sm/viz/SupermarketSalesTrendBusinessAnalysisDashboard/Dashboard1#1
 
+# Week 10 – Business Performance Analysis using Heat Map
+
+## Objective
+
+To analyze business performance across different categories using a Heat Map in Tableau and identify high and low performing areas.
+
+## Dataset
+
+SuperMarket Analysis Dataset
+
+## Tool Used
+
+- Tableau Public
+- GitHub
+
+## Categorical Variables
+
+1. Product Line
+2. Payment Method
+
+## Numerical Measure
+
+- Sales
+
+## Main Business Question
+
+How does sales performance vary across different product lines and payment methods?
+
+## Visualizations
+
+1. Sales Heat Map by Product Line and Payment
+2. Sales Distribution Histogram
+3. Sales by Branch
+4. Monthly Sales Trend
+
+## Interactive Filter
+
+- Branch
+
+## Heat Map Analysis
+
+- The highest sales combination is Ewallet with Home and Lifestyle, with sales of 21,290.
+- The lowest sales combination is Credit Card with Home and Lifestyle, with sales of 13,983.
+- Ewallet shows strong sales in Home and Lifestyle.
+- Credit Card sales vary across different product lines.
+- Sales performance differs across product lines and payment methods.
+
+## Business Insights
+
+1. Sales performance varies across different product lines and payment methods.
+2. Home and Lifestyle shows both high and low combinations depending on payment method.
+3. Ewallet records a strong sales value for Home and Lifestyle.
+4. Credit Card has relatively lower sales for Home and Lifestyle.
+5. The histogram shows that individual transaction sales are distributed across different sales ranges.
+
+## Business Recommendations
+
+1. Analyze successful payment-method and product-line combinations and use the findings to improve sales strategies.
+2. Investigate lower-performing combinations and consider targeted promotions or payment incentives.
+
+## Dashboard
+
+The final Tableau dashboard combines the Heat Map, Histogram, Branch Sales chart, and daily Sales Trend.
+
+## Tableau Public
+
+https://public.tableau.com/app/profile/gokul.sm/viz/SupermarketSalesPerformanceDashboard_17904976717530/Dashboard1#1
+
+## Screenshots
+
+<img width="1838" height="933" alt="image" src="https://github.com/user-attachments/assets/b34f703a-551f-4762-9d77-93edf76eb2d5" />
+
+
 
 
