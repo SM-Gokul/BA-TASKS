@@ -306,6 +306,73 @@ https://public.tableau.com/app/profile/gokul.sm/viz/SupermarketSalesPerformanceD
 
 <img width="1838" height="933" alt="image" src="https://github.com/user-attachments/assets/b34f703a-551f-4762-9d77-93edf76eb2d5" />
 
+# 📊 Week 11 – Bubble Chart Analysis
+
+## 🎯 Objective
+To analyze and compare different business categories using a Bubble Chart in Tableau Public and identify significant categories based on sales performance.
+
+## 📂 Dataset
+SuperMarket Analysis.csv
+
+## 🛠️ Tool Used
+- Tableau Public
+- Kaggle Dataset
+
+## 📌 Categorical Field
+- Product Line
+- Branch
+- Payment
+
+## 🔢 Numerical Field
+- Sales
+- Quantity
+- Unit Price
+- Gross Income
+
+## 📊 Visualizations Created
+
+1. Bubble Chart – Sales by Product Line
+2. Area Chart – Monthly Sales Trend
+3. Bullet Chart – Sales Performance
+4. Gantt Chart – Sales by Date
+5. Dashboard with Interactive Branch Filter
+
+## 🎛️ Interactive Filter
+- Branch
+
+The Branch filter allows users to interactively analyze sales performance for different branches.
+
+## 🔍 Bubble Chart Analysis
+
+The Bubble Chart compares sales performance across different product lines. Bubble size represents sales, making it easier to visually compare the contribution of each product category.
+
+## 💡 Business Insights
+
+1. Sales performance varies across different product lines.
+2. Bubble size helps identify categories with relatively higher sales.
+3. Monthly sales trends show changes in business performance over time.
+4. Branch-wise filtering allows comparison of sales across different locations.
+5. Different visualizations provide multiple perspectives of supermarket performance.
+
+## 💼 Business Recommendations
+
+1. Focus inventory planning on product lines showing stronger sales performance.
+2. Monitor branch-wise sales trends regularly and adjust marketing and stock strategies accordingly.
+
+## 📈 Dashboard
+
+Dashboard Name:
+**Supermarket Sales Analysis Dashboard**
+
+## 🔗 Tableau Public
+
+[Add your Tableau Public dashboard link here.](https://public.tableau.com/app/profile/gokul.sm/viz/SupermarketSalesAnalysisDashboard_/Dashboard1#1)
+
+## 🖼️ Screenshots
+
+<img width="1302" height="935" alt="image" src="https://github.com/user-attachments/assets/678285a5-e696-488d-a72d-6e1ae76b958b" />
+
+
 
 
 
